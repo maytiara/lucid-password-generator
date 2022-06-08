@@ -1,20 +1,10 @@
-# 03 JavaScript: Password Generator
+# Module 3 | Javascript : Generator Password
 
-## Your Task
+## Description
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+Create a functional javascript to generate a unique password. Html & Css were already given for this assignment. 
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
-
-## User Story
-
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
-
-## Acceptance Criteria
+## Here's the following criteria given on this assignment [For reference only:]
 
 ```
 GIVEN I need a new, secure password
@@ -34,67 +24,24 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+## Challenges:
 
-The following image shows the web application's appearance and functionality:
+> As a student, and having zero background in computer science + I'm not a programmer, I'm a designer 😅. You will definitely feel lost at first. Specially on our first session of "Javascript", you will have this kind of expression "what the heck I am doing". But hey, "We're living in the modern world, lots of resources to back-up our zero knowledge, the only solution if you'll put an effort into it and just keep going ("Grit")..
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
-
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+## What do I have to learn more, in terms of Javascript:
 >
-> * A repository that has no code
+> * Data Structure (reference)
+> * Algorithms (reference)
+> * and more.... 
 >
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
+## Please see the basic flowchart of my password generator and functionality:
 
-### Technical Acceptance Criteria: 40%
+![Flowchart of my password generator](./Assets/Module-3-Generate-password-flowchart-01.jpg)
 
-* Satisfies all of the preceding acceptance criteria.
 
-### Deployment: 32%
 
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+## Defining and Designing the script: was included inside my javascript using //comments..
 
 - - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Credit: to my tutor who helped me to finish the missing function and to understand the additional arguments and other built-in functions. Thanks to **Sam&James** as well..
